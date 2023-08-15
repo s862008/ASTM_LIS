@@ -1,4 +1,4 @@
-package ru.lis;
+package lis;
 
 import java.util.HashMap;
 import java.util.Map;
