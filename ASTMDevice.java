@@ -1,21 +1,12 @@
 package lis.astmdevices;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import lis.AbstractDevice;
 import lis.Result;
 
 /**
  *
- * @author 
+ * @author s862008
  */
 
 public abstract class ASTMDevice extends AbstractDevice {
